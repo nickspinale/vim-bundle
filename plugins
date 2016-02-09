@@ -17,3 +17,5 @@ vim-scripts/cscope_macros.vim
 nickspinale/vim-colors-solarized
 
 justinmk/vim-dirvish
+
+bling/vim-bufferline
