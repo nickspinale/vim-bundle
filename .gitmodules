@@ -49,3 +49,6 @@
 [submodule "bundle/chuck.vim"]
 	path = bundle/chuck.vim
 	url = https://github.com/wilsaj/chuck.vim
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown
