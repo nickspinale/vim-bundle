@@ -55,3 +55,6 @@
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree
+[submodule "bundle/smali-vim"]
+	path = bundle/smali-vim
+	url = https://github.com/alderz/smali-vim
