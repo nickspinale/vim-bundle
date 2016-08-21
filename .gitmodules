@@ -58,3 +58,6 @@
 [submodule "bundle/smali-vim"]
 	path = bundle/smali-vim
 	url = https://github.com/alderz/smali-vim
+[submodule "bundle/Vim-Jinja2-Syntax"]
+	path = bundle/Vim-Jinja2-Syntax
+	url = https://github.com/Glench/Vim-Jinja2-Syntax
