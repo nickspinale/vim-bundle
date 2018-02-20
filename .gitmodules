@@ -64,3 +64,6 @@
 [submodule "bundle/idris-vim"]
 	path = bundle/idris-vim
 	url = https://github.com/idris-hackers/idris-vim
+[submodule "bundle/cryptol.vim"]
+	path = bundle/cryptol.vim
+	url = https://github.com/victoredwardocallaghan/cryptol.vim
